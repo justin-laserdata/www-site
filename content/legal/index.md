@@ -32,8 +32,9 @@ The following pages provide information for Apache Software Foundation committer
 
 ### The Legal Affairs Committee  {#communications}
 
-The Legal Affairs Committee was established in March 2007 and is responsible for establishing, and managing, 
-legal policies based on the advice of legal counsel and the interests of the Foundation. It reports to the board each month. 
+The Legal Affairs Committee was established in March 2007 and is responsible for establishing, and managing,
+legal policies based on the advice of legal counsel and the interests of the Foundation. Since September 2026
+it is no longer a board committee, and VP Legal Affairs reports to the board each month.
 
 Questions for the Legal Affairs Committee should be raised on 
 [LEGAL JIRA space](https://issues.apache.org/jira/browse/LEGAL).
